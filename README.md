@@ -1,1 +1,1 @@
-# Snake-Game
+This project is a Snake Game implemented in C++ using Windows-specific libraries like windows.h and conio.h. It features a console-based interface where the player controls a growing snake that collects food while avoiding collisions with its own body or the screen edges. The game dynamically updates the snake's position, handles real-time user input for direction changes, and displays the score. 
